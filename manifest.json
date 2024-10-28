@@ -1,6 +1,6 @@
 {
-    "name": "Minha primeira Progressive Web App",
-    "short_name": "Primeira PWA",
+    "name": "Horarios de Tecnico de Informatica 6B",
+    "short_name": "Info-6B",
     "icons": [
         {
             "src": "images/pwa-icon-256.png",
