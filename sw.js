@@ -1,6 +1,6 @@
 let cacheName = "my-first-pwa";
 let filesToCache = ["/", "/index.html", "/js/tabela.js", "/js/tabelapendencia.js", 
-                "/css/style.css", "/js/main.js","/html/tabelahorario.html", "/html/tabelapedencia.html"];
+                "/css/style.css", "/js/main.js","/html/tabelahorario", "/html/tabelapedencia"];
 
 /* inicializando a service worker e fazendo o 
 download do conteúdo da aplicação */
